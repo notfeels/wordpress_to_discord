@@ -1,5 +1,5 @@
 # wordpress_to_discord
-📢 automatically send posts from your wordpress blog to discord
+📢 automatically send posts from your wordpress blog to discord using webhooks
 
 ## how to use
 1. go to your plugin folder
